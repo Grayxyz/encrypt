@@ -1,0 +1,29 @@
+{
+  "name": "cipher.js",
+  "version": "1.0.0",
+  "description": "a simple cipher practice app",
+  "main": "cipher.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grayxyz/encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "cipher",
+    "javascript",
+    "test",
+    "codecademy",
+    "grayjay",
+    "io",
+    "ioui"
+  ],
+  "author": "moonui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grayxyz/encrypt/issues"
+  },
+  "homepage": "https://github.com/Grayxyz/encrypt#readme"
+}
